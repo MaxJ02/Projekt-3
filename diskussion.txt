@@ -1,0 +1,18 @@
+1. Vad lärde ni er av projektet?
+
+Jag lärde mig faktiskt en hel del och känner att det faktiskt flöt på ganska bra speciellt efter en knuff i rätt riktning. Mer specifikt lärde jag mig
+mer om AD-omvandling, interrupts, och hur användbart och bekvämt templates kan vara.
+
+2. Vad var lätt/svårt?
+
+Tyckte det blev mycket lättare med ett template, skönt att inte behöva skriva om allt från scratch.
+Personligen var det svårt att som i allt inom programmering att gå från ett koncept du ber oss göra till kod. Men som sagt hjälpte templaten och föregående uppgifter
+mycket. 
+
+3. Vad hade ni velat ha lärt er mer innan projektet?
+
+Vet faktiskt inte. 
+
+4. Övriga kommentarer?
+
+Kul projeket, alltid kul när det händer något på arduinon istället för bara utskrift i terminalen tex.
